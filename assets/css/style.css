@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+    
+}
+
+/* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbcZdC-MT8QmoTeuaSTqWdUPuh_Z26gmmSqVtJQRUKYzlP2jekDz6XGWSXBgggMlu9ts&usqp=CAU */
+
+
+.aee{
+    background: #E0FBFC;
+    border-radius: 5px;
+    padding-top:  10px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    
+
+}
+.aea{
+    background: #98C1D9;
+    border-radius: 5px;
+
+}
+.bg-kt{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbcZdC-MT8QmoTeuaSTqWdUPuh_Z26gmmSqVtJQRUKYzlP2jekDz6XGWSXBgggMlu9ts&usqp=CAU');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-white { color: #fff; }
+.bg-white { background-color: #fff; }
+
+.bg-black {background-color: #000; }
+.text-black {color:#000;}
+
+.bg-green { background-color: 	#3D5A80; }
+.text-green {color: #39ACE7; }
+
+.candidate_photo {
+    width: 60px;
+    height: 60px;
+    border: 2px solid #AF1313;
+    border-radius: 100%;
+}
+.user_p {
+    width: 60px;
+    height: 60px;
+    border: 2px solid #AF1313;
+    border-radius: 100%;
+}
+.cimg{
+    width: 80px;
+    height: 80px;
+}
+
+ul {
+    padding: 0%;
+   } 
+li{padding: 0%;}
+ul li{
+    display: inline;
+    list-style-type: none; 
+    font-weight: bold;  
+}
+.card1{
+    background-color: #70a1ff;
+    margin-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10;
+}
+.c_1{
+    padding: 20px;
+    
+    
+    background: #1170dca2;
+    border-radius: 10px;
+
+}
+.icons > *{
+    font-size: 2.5rem;
+    color:var(--light-color);
+    cursor: pointer;
+    margin-left: 1.5rem;
+ }
+
