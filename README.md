@@ -1,5 +1,5 @@
 # E-Voting-Portal
-<h1>Auther- ketan more</h1>
+<h3>Auther- ketan more</h3>
 <br>Technologies Used: HTML, CSS, PHP, MySQL, bootstrap.
 <br>Developed a secure and user-friendly web application for conducting online elections.
 <br>Enabled voter registration, login authentication, and real-time vote casting with administrative controls.
